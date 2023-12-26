@@ -1,0 +1,18 @@
+[package]
+name = "uefi-cheese"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+embedded-canvas = "0.3.0"
+embedded-graphics = "0.8.1"
+embedded-text = { version = "0.7.0", features = ["ansi"] }
+embedded-vintage-fonts = "0.2.0"
+tinybmp = "0.5.0"
+uefi = "0.26.0"
+uefi-services = "0.23.0"
+unwrap-infallible = "0.1.5"
+
+[build-dependencies]
+asciicast = "0.2.2"
+serde_json = "1.0"

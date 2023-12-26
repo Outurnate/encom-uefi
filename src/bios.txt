@@ -1,0 +1,14 @@
+ENCOMBIOS(C)2010 Encom, Inc.
+
+IBM BM4U2PN/EX ACPI UEFI Revision 01
+CPU: Intel(R) Core(TM) i9-3459 CPU @ 56MHz
+  Speed 10MHz
+
+Total Memory: 256MB (DDR7-1600)
+
+USB Devices total: 0 Drive, 2 Keyboards, 1 Mouse, 2 Hubs
+
+Detected ATA/ATAPI Devices...
+SATA6G_1: TSSTcorp CDDVDM SH-S223B
+SATA6G_2: ST500DM002-1BDI
+Press <CTRL + P> to Enter AJCX setup menu
